@@ -7,9 +7,12 @@
     "test": "jest"
   },
   "repository": {
-    "type":"git",
-    "url":"git+https://github.com/17GuptaIshita/NamasteReact.git"
+    "type": "git",
+    "url": "git+https://github.com/17GuptaIshita/NamasteReact.git"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Ishita Gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.3"
+  }
 }
